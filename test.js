@@ -7,4 +7,4 @@ saludar = function () {
   saludo = generarSaludo(txtNombre, txtApellido);
   console.log(saludo);
   return saludo;
-}
+};
