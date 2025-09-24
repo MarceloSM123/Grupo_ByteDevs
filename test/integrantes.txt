@@ -1,0 +1,5 @@
+Nombre del equipo: ByteDevs
+Integrantes(número: nombre, gustos, nombre en git):
+1: Marcelo Salcedo,  Video juegos,gitGMarceloSM123.
+2: Kevin Macas, Bailar salsa, Kevinmacas13.
+3: Fabian Velez, me gusta comer "encebollado " y ver series animadas "one pice, etc", Junior27VQ.
