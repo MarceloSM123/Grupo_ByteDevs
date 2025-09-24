@@ -5,6 +5,8 @@ saludar = function () {
   txtApellido = document.getElementById("txtApellido").value;
   let saludo;
   saludo = generarSaludo(txtNombre, txtApellido);
-  console.log(saludo);
-  return saludo;
+  let componente;
+    componente=document.getElementById("txtResultado");
+    componente.innerText=saludo;
+
 };
